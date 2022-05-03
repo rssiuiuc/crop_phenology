@@ -23,5 +23,5 @@ If you use RTPC in your work,  please cite our paper:
 }
 ```
 
-## Acknowledgements
+## Acknowledgement
 This project is supported by the National Science Foundation’s Office of Advanced Cyberinfrastructure under grant 1849821
